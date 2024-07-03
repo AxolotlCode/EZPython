@@ -1,2 +1,2 @@
-# Atlas-Python
+# EZPython
 A Janky Python-Based Language
